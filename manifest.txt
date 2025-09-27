@@ -1,4 +1,4 @@
-2025-08-18 06:17:31.278843
+2025-09-27 00:02:28.592273
 820338b15a92e5ad69cdf5939cf0a4f8 boilerplate/doctypes.kdl
 d41d8cd98f00b204e9800998ecf8427e boilerplate/logo.include
 f54e1fc4b6ce32fc559c82d46cf57a2e boilerplate/footer.include
@@ -262,7 +262,7 @@ be1942c9d693736dae47af49e891c169 boilerplate/whatwg/computed-metadata-LS-PR.incl
 e1653db363926bcc088e493d844a14b6 boilerplate/whatwg/computed-metadata-RD.include
 326f36b0b7c2d45c7fa59f1fef1d5d7a boilerplate/whatwg/computed-metadata.include
 3cd6525ee6286d98765ba600eaa93105 boilerplate/whatwg/defaults-RD.include
-23729d998a3efed655aa552874e1610e boilerplate/whatwg/defaults.include
+95f898a48679ceb5c3ea335b3bd94aa8 boilerplate/whatwg/defaults.include
 91e2c82b59ff0dc7d3b10a72ed5d3b66 boilerplate/whatwg/footer-RD.include
 2fcfb92564e49aadf28892936a581e39 boilerplate/whatwg/footer.include
 42c5e780d22d1b3716ce33e636c6efd9 boilerplate/whatwg/header-RD.include
